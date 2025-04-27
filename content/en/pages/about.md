@@ -12,7 +12,7 @@ With AI tools now making some things easier, maybe it's the right moment to fina
 Still, the posts here are personal: they take time, a lot of edits, and more effort than it might seem.
 Hopefully, this will grow into something more than just another forgotten project.
 
-# Who Am I
+# Who Am I?
 I've been working as a software engineer for about 10 years now.
 It was never really a big passion, but with the right project and company, I actually enjoy my job now.
 Most of the time I work on backend stuff in the Java world, but I also do some frontend when needed, even if it's not really my thing.
@@ -35,11 +35,11 @@ At least I got a fun story out of it: I once broke production and triggered a fu
 
 Later, I had a few more experiences that mostly taught me what I don't want to do, like working for companies that still send compiled class files to clients and think it's normal in 2020, or being stuck on projects with no real impact and no sense of ownership.
 
-Now I'm working at [Malt](https://www.malt.com/) where I mostly deal with money, invoices, payments and all that serious stuff.
+Now I'm working at [Malt](https://www.malt.com/) where I mostly deal with money, invoices, payments, and all that serious stuff.
 Honestly, working with money suits me — at least I know it's not a fake feature no one cares about.
 
 # Few Things About Me
-tend to have hobbies that aren't really related to my work.
+I tend to have hobbies that aren't really related to my work.
 I’m big into reading and I don’t stick to just one genre — I like exploring a variety of topics.
 When I travel, I enjoy visiting museums and exploring different kinds of painting. I’ve also developed a thing for colder, northern countries (I don't know, they just seem to suit me). If you’re ever in Norway, make sure to check out [Edvard Munch's museum](https://www.munchmuseet.no/en/) — his work has a way of staying with you.
 
