@@ -129,3 +129,7 @@ url = "https://www.linkedin.com/in/rabah-meradi-8b38b411b/"
 [[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
