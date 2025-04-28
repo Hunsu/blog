@@ -44,7 +44,7 @@ I’m big into reading and I don’t stick to just one genre — I like explorin
 When I travel, I enjoy visiting museums and exploring different kinds of painting. I’ve also developed a thing for colder, northern countries (I don't know, they just seem to suit me). If you’re ever in Norway, make sure to check out [Edvard Munch's museum](https://www.munchmuseet.no/en/) — his work has a way of staying with you.
 
 I’m also a huge film buff. In fact, I’ve watched at least one movie from over [160 countries](https://www.imdb.com/list/ls051185087), which is about 80% of all countries in the world.
-And while most people might find them boring, I enjoy films that others might shy away from. For example, have you ever tried watching [Satantango](https://www.imdb.com/title/tt0111341/) or reading the book? I absolutely loved it.
+And while most people might find them boring, I enjoy films that others might shy away from. For example, have you ever tried watching [Satantango](https://www.imdb.com/title/tt0111341/), a 7-hour slow movie? I absolutely loved it.
 
 When it comes to Japan, I’m a big fan, but not for the usual anime and manga reasons (although I like those too).
 In fact, many people I know don’t even recognize the anime or manga titles I enjoy.
