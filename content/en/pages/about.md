@@ -23,7 +23,7 @@ I'm also not really into games and I'm not a big fan of sci-fi.
 
 # My Professional Journey
 
-I started working in 2014 while I was still in school, on a startup project (not mine) that was supposed to revolutionize the world of electronic design.
+I started working in 2014 while I was still in school, on a [startup project](/posts/my-journey-in-a-startup-as-a-software-engineer.md) (not mine) that was supposed to revolutionize the world of electronic design.
 It was a great experience where you had to do pretty much everything yourself.
 The startup ended up failing, but I learned a lot, and probably the most important lesson was that success isn't just about having a good or bad idea, it's about how good you are at making it happen.
 
