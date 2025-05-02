@@ -4,6 +4,7 @@ description: 'A story about my first big mistake in production at a payment serv
 author: Rabah M
 toc: false
 date: 2019-02-15
+css: "/css/styles.css"
 ---
 
 # Joining the Company
@@ -48,54 +49,19 @@ Our payment page was structured into two main blocks: on the left, we showed det
 relevant here), and on the right, we had a header block with the credit card fields below it. Clients could customize
 the header—by default, we showed our company logo, but they could remove it entirely or upload their own logo. See the
 screenshots below:
-<style>
-  
-  .image-gallery {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 16px;
-    
-    margin: 0 0 20px;
-  }
-
-.image-gallery h3 {
-    margin-top: 0;
-  }
-
-  .image-gallery a img {
-    width: 200px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    transition: transform 0.2s, box-shadow 0.2s;
-    cursor: pointer;
-  }
-
-  .image-gallery a img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-  }
-  .image-wrapper {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 16px;
-    margin: 20px 0;
-  }
-</style>
 <div class="image-gallery">
   <h3>Examples of header customization</h3>
 <div class="image-wrapper">
 <a href="/images/default-header.png">
-  <img src="/images/default-header.png" width="200">
+  <img src="/images/default-header.png">
 </a>
 
 <a href="/images/custom-header.png">
-  <img src="/images/custom-header.png" width="200">
+  <img src="/images/custom-header.png">
 </a>
 
 <a href="/images/no-header.png">
-  <img src="/images/no-header.png" width="200">
+  <img src="/images/no-header.png">
 </a>
 </div>
 </div>
