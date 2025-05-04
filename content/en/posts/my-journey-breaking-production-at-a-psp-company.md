@@ -5,6 +5,7 @@ author: Rabah M
 toc: false
 date: 2019-02-15
 css: "/css/styles.css"
+tags: ['software-engineering']
 ---
 
 # Joining the Company

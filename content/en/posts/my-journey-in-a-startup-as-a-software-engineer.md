@@ -4,6 +4,7 @@ description: 'I joined a startup early on, helped build it from the ground up, a
 author: Rabah M
 toc: false
 date: 2018-07-04
+tags: ['software-engineering', 'career']
 ---
 
 # Joining the Adventure
